@@ -1,0 +1,9 @@
+*.js linguist-language=JavaScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+
+# Example to mark a directory as documentation
+docs/ linguist-documentation=true
+
+# Example to mark third-party libraries as vendored
+third-party/ linguist-vendored=true
