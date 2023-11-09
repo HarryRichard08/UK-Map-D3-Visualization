@@ -24,17 +24,17 @@ To install and run UK Map Visualization, follow these steps:
    git clone https://github.com/yourusername/UK-Map-Visualization-D3-Flask.git
 
 2. Navigate to the project directory:
-
+    ```bash 
    cd UK-Map-Visualization-D3-Flask
 
 
 3. Install the required Python packages (if any):
-
+    ```bash
    pip install -r requirements.txt
 
 
 4. Run the Flask application:
-
+    ```bash
    python app.py
 
    
