@@ -1,7 +1,7 @@
 
 # UK Map Visualization with D3.js
 
-This project is a web-based visualization tool that uses D3.js to plot given places on an interactive map of the United Kingdom. The application is hosted on a Flask server, which provides a simple and efficient way to serve the map visualization on the web. You'll find the visualization intuitive and responsive, with capabilities such as zooming and panning for detailed exploration of the UK map.
+This project is a web-based visualization tool that uses D3.js to plot given places on an  map of the United Kingdom. The application is hosted on a Flask server, which provides a simple and efficient way to serve the map visualization on the web. You'll find the 
 
 The setup is straightforward, and running the application locally is as simple as executing the Flask application file. Please follow the steps outlined below to get the map up and running on your local machine.
 
